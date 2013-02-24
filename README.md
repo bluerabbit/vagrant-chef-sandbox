@@ -21,6 +21,7 @@ vagrant-chef-sandbox
 - vagrant halt
  - shutdown
 - vagrant destroy ubuntu
+- vagrant ssh-config
 
 ## sahara
 - vagrant gem install sahara
