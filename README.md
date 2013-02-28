@@ -28,3 +28,6 @@ vagrant-chef-sandbox
 - vagrant sandbox on
 - vagrant sandbox rollback
 - vagrant sandbox commit
+
+## knife-solo
+- bundle exec vagrant provision
