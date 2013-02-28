@@ -1,6 +1,20 @@
 vagrant-chef-sandbox
 ====================
 
+## gem install
+
+
+```
+gem install vagrant
+gem install vagrantboxes
+gem install vagrant-vbguest
+gem install sahara
+gem install chef
+gem install knife-solo
+gem install berkshelf
+```
+
+
 ## VirtualBox
 
 - https://www.virtualbox.org/wiki/Downloads
